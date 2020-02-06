@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)   ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-## Comment faire fonctionner ce bin's :
+## Comment faire fonctionner ce bin's :
 * J't'arrête tout de suite fréro/soeurette, j'ai pas eu le temps de faire cet exercice.
 * Détends toi et passe à la suite.
 
